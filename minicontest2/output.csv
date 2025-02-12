@@ -1,0 +1,14 @@
+,your_best(red)
+,<Average Winning Rate>
+your_base1,0.5
+your_base2,0.6
+your_base3,0.7
+baseline,0.8
+Num_Win,4.0
+Avg_Winning_Rate,0.65
+,<Average Scores>
+your_base1,1.9
+your_base2,2.6
+your_base3,2.5
+baesline,3.1
+Avg_Score,2.525
